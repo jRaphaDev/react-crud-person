@@ -1,0 +1,64 @@
+
+.pure-form-aligned .pure-control-group {
+  text-align: left;
+}
+
+input{
+  width: 87%;
+}
+
+.th-name {
+  width: 30%;
+}
+
+.th-email {
+  width: 70%;
+}
+.pure-form .pure-form-aligned {
+  padding-top: 20px;
+}
+
+.pure-form-aligned .pure-control-group label {
+  width: 10%;
+}
+
+.pure-form-aligned .pure-control-group {
+  text-align: right;
+}
+
+.table {
+  padding-top: 20px;
+}
+
+.pure-table {
+  width: 100%;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
